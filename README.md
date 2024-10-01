@@ -187,3 +187,11 @@ config-file=/path/to/your/config_infer_primary_yoloV7.txt
 ```bash
 deepstream-app -c deepstream_app_config.txt
 ```
+---
+There you go! Now you can see your app running smoothly 😊
+
+**Made with 🫶🏻 by Basil**
+
+Check out my medium guide here: [medium.com](https://medium.com/@basilshaji32/integration-of-yolov7-model-with-deepstream-v7-0-a991bf97be50)
+
+You can go through my notion website: [notion.com](https://basilshaji.notion.site/Integration-of-YOLOv7-Model-with-Deepstream-v7-0-021b7246a2de44b5ba7a183551839258?pvs=4)
