@@ -1,3 +1,13 @@
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://github.com/myselfbasil/Integration-of-YOLOv7-Model-with-Deepstream-v7.0/blob/569d2eff7e23558738deb53f4086b78cffe46c29/assets/header_img.png"
+      >
+    </a>
+  </p>
+</div>
 # Integration of YOLOv7 Model with Deepstream v7.0
 
 Reference Page: https://github.com/myselfbasil/DeepStream-Yolo
