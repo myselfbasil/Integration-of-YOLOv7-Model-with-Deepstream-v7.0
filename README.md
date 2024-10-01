@@ -8,6 +8,7 @@
     </a>
   </p>
 </div>
+
 # Integration of YOLOv7 Model with Deepstream v7.0
 
 Reference Page: https://github.com/myselfbasil/DeepStream-Yolo
